@@ -2,8 +2,6 @@ package com.aplazo.interest.service;
 
 import java.time.LocalDate;
 import java.time.ZoneId;
-import java.time.ZonedDateTime;
-import java.time.temporal.TemporalUnit;
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
