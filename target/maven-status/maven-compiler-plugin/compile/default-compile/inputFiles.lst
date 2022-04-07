@@ -1,0 +1,11 @@
+/Users/marko/Documents/aplazo/interest/src/main/java/com/aplazo/interest/controller/InterestController.java
+/Users/marko/Documents/aplazo/interest/src/main/java/com/aplazo/interest/service/InterestServiceImpl.java
+/Users/marko/Documents/aplazo/interest/src/main/java/com/aplazo/interest/dto/InterestDTO.java
+/Users/marko/Documents/aplazo/interest/src/main/java/com/aplazo/interest/dto/MonthlyPaymentDTO.java
+/Users/marko/Documents/aplazo/interest/src/main/java/com/aplazo/interest/InterestConfiguration.java
+/Users/marko/Documents/aplazo/interest/src/main/java/com/aplazo/interest/model/MonthlyPayment.java
+/Users/marko/Documents/aplazo/interest/src/main/java/com/aplazo/interest/service/IInterestService.java
+/Users/marko/Documents/aplazo/interest/src/main/java/com/aplazo/interest/repository/IMonthlyPaymentRepository.java
+/Users/marko/Documents/aplazo/interest/src/main/java/com/aplazo/interest/repository/IInterestRepository.java
+/Users/marko/Documents/aplazo/interest/src/main/java/com/aplazo/interest/InterestApplication.java
+/Users/marko/Documents/aplazo/interest/src/main/java/com/aplazo/interest/model/Interest.java
